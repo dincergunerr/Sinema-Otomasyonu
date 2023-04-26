@@ -1,0 +1,16 @@
+C:\Users\Monster\Desktop\Yeni klasör\SinemaProje\SinemaProje\bin\Debug\SinemaProje.exe.config
+C:\Users\Monster\Desktop\Yeni klasör\SinemaProje\SinemaProje\bin\Debug\SinemaProje.exe
+C:\Users\Monster\Desktop\Yeni klasör\SinemaProje\SinemaProje\bin\Debug\SinemaProje.pdb
+C:\Users\Monster\Desktop\Yeni klasör\SinemaProje\SinemaProje\obj\Debug\SinemaProje.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Yeni klasör\SinemaProje\SinemaProje\obj\Debug\SinemaProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\Yeni klasör\SinemaProje\SinemaProje\obj\Debug\SinemaProje.Properties.Resources.resources
+C:\Users\Monster\Desktop\Yeni klasör\SinemaProje\SinemaProje\obj\Debug\SinemaProje.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\Yeni klasör\SinemaProje\SinemaProje\obj\Debug\SinemaProje.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Yeni klasör\SinemaProje\SinemaProje\obj\Debug\SinemaProje.exe
+C:\Users\Monster\Desktop\Yeni klasör\SinemaProje\SinemaProje\obj\Debug\SinemaProje.pdb
+C:\Users\Monster\Desktop\Yeni klasör\SinemaProje\SinemaProje\obj\Debug\SinemaProje.BiletAl.resources
+C:\Users\Monster\Desktop\Yeni klasör\SinemaProje\SinemaProje\obj\Debug\SinemaProje.Filmler.resources
+C:\Users\Monster\Desktop\Yeni klasör\SinemaProje\SinemaProje\obj\Debug\SinemaProje.Giris.resources
+C:\Users\Monster\Desktop\Yeni klasör\SinemaProje\SinemaProje\obj\Debug\SinemaProje.AnaMenu.resources
+C:\Users\Monster\Desktop\Yeni klasör\SinemaProje\SinemaProje\obj\Debug\SinemaProje.Salonlar.resources
+C:\Users\Monster\Desktop\Yeni klasör\SinemaProje\SinemaProje\obj\Debug\SinemaProje.Seanslar.resources
